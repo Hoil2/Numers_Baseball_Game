@@ -1,0 +1,8 @@
+﻿  AI.cpp
+C:\Users\hhhhh\Desktop\Hello World\Programming\C\NumersBaseball\NumersBaseball\AI.cpp(92,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  1 of 180 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  NumersBaseball.vcxproj -> C:\Users\hhhhh\Desktop\Hello World\Programming\C\NumersBaseball\Release\NumersBaseball.exe
